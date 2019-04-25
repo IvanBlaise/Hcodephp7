@@ -1,0 +1,10 @@
+echo "# teste" >> README.md
+git init
+git add README.md or
+git add --all
+git commit -m "first commit"
+git remote add origin https://github.com/IvanBlaise/teste.git
+git push -u origin master
+
+
+git pull origin master - para importar do github para meu computador
