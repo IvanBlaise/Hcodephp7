@@ -1,0 +1,7 @@
+Idusuario,Deslogin,Dessenha,Dtcadastro
+1,Carlos Magno,123456,2019-04-11 13:52:43
+4,Ivan Carlos,4444,2019-04-11 14:07:08
+5,Denis West,5555,2019-04-11 14:07:30
+6,Jose Miguel,66666,2019-04-12 09:59:45
+10,aluno,654321,2019-04-12 11:33:31
+11,Professor,7777,2019-04-12 12:55:57
