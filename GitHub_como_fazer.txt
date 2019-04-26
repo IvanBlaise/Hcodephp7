@@ -14,4 +14,6 @@ git remote rm origin - remover uma pasta local do github
 git status -  mostra o status dos arquivos no Git
 git diff - mostra o que foi alterado no arquivo modificado
 
+git diff --name-only - mostra o nome do arquivo modificado.
+
 
