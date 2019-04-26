@@ -1,9 +1,9 @@
 <?php 
 
-$pasta = "arquivos"	;
+$pasta = "minha_pasta"	;
 $permissao = "0775";
 
-if(!is_dir($pasta)) mkdir($pasta, $permissão);
+if(!is_dir($pasta)) mkdir($pasta, $permissao);
 /*
 Códigod de permissão pra criação de pastas:
 

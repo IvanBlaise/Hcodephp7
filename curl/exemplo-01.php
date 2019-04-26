@@ -13,8 +13,10 @@ $response = curl_exec($ch);
 
 curl_close($ch);
 
-$data = json_decode($response, true);
+echo $response;
 
-print_r($data);	
+//$data = json_decode($response, true);
+
+//print_r($data);	
 
  ?>
