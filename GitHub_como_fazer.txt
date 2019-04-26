@@ -11,3 +11,7 @@ git pull origin master - para importar do github para meu computador
 
 git remote rm origin - remover uma pasta local do github
 
+git status -  mostra o status dos arquivos no Git
+git diff - mostra o que foi alterado no arquivo modificado
+
+
