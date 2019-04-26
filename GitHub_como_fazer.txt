@@ -8,3 +8,6 @@ git push -u origin master
 
 
 git pull origin master - para importar do github para meu computador
+
+git remote rm origin - remover uma pasta local do github
+
